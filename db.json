@@ -1,22 +1,16 @@
 {
   "chores": [
     {
-      "id": 1,
-      "title": "Wash the dishes",
-      "priority": "piling up",
-      "duration": "30 min"
+      "title": "Make a Real Answer",
+      "priority": "High",
+      "duration": "20 mins",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Fix Bed",
-      "priority": "Can Wait",
-      "duration": "3 min"
-    },
-    {
-      "id": 3,
-      "title": "Catch Matt doing weird things",
-      "priority": "MOI IMPORTANTE",
-      "duration": "ongoing, forever"
+      "title": "buy lunch for mod 3",
+      "priority": "Life or Death",
+      "duration": "daily",
+      "id": 2
     }
   ]
 }
